@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/image.png",
+      "destination": "/api/image.py"
+    }
+  ]
+}
